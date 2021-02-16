@@ -1,0 +1,41 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Benne', serif;
+}
+
+h1{
+  font-size: 90px;
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  font-family: 'Crimson Text', serif;
+}
+
+.top-Container {
+
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.cloud-top {
+  position: absolute;
+  top:40px;
+  right: 100px
+}
+.cloud-bottom {
+  position:absolute;
+  top:40px;
+  left: 100px;
+}
+
+.skills
+{
+  text-align: center;
+}
